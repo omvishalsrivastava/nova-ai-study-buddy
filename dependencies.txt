@@ -1,0 +1,7 @@
+Python 3.10+
+
+Libraries used:
+- requests (for API calls to OpenRouter)
+
+Built-in modules:
+- os (for environment variables)
